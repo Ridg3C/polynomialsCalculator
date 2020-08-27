@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1598256801 source:c:\users\checi\desktop\polynomialscalculator\addition.cpp
+	<iostream>
+	"polynomials.h"
+
+1598454788 c:\users\checi\desktop\polynomialscalculator\polynomials.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1598467036 source:c:\users\checi\desktop\polynomialscalculator\classresult.cpp
+	<iostream>
+	"polynomials.h"
+
+1598443405 source:c:\users\checi\desktop\polynomialscalculator\classwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\polynomialscalculator\division.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\polynomialscalculator\gatherpx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\polynomialscalculator\gatherwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598443227 source:c:\users\checi\desktop\polynomialscalculator\isfloat.cpp
+	<iostream>
+	"polynomials.h"
+	<ctype.h>
+	<sstream>
+
+1598467036 source:c:\users\checi\desktop\polynomialscalculator\ispositiveinteger.cpp
+	<iostream>
+	"polynomials.h"
+	<ctype.h>
+	<sstream>
+
+1598454135 source:c:\users\checi\desktop\polynomialscalculator\main.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\polynomialscalculator\menu.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467072 source:c:\users\checi\desktop\polynomialscalculator\multiplication.cpp
+	<iostream>
+	"polynomials.h"
+
+1598179194 source:c:\users\checi\desktop\polynomialscalculator\showpx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467072 source:c:\users\checi\desktop\polynomialscalculator\showresult.cpp
+	<iostream>
+	"polynomials.h"
+
+1598179194 source:c:\users\checi\desktop\polynomialscalculator\showwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598266989 source:c:\users\checi\desktop\polynomialscalculator\subtraction.cpp
+	<iostream>
+	"polynomials.h"
+

@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1597426255 source:c:\users\checi\desktop\z polimorfia\main.cpp
+	<iostream>
+	"polynomials.h"
+
+1597422120 source:c:\users\checi\desktop\z polimorfia\gather.cpp
+	<iostream>
+	"algebraicExpression.h"
+
+1597425833 c:\users\checi\desktop\z polimorfia\algebraicexpression.h
+	<iostream>
+
+1597426255 source:c:\users\checi\desktop\z polimorfia\showwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1597426255 source:c:\users\checi\desktop\z polimorfia\structors.cpp
+	<iostream>
+	"polynomials.h"
+
+1597443483 source:c:\users\checi\desktop\z polimorfia\gatherwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1597426255 source:c:\users\checi\desktop\z polimorfia\gatherpx.cpp
+	<iostream>
+	"polynomials.h"
+
+1597426255 source:c:\users\checi\desktop\z polimorfia\showpx.cpp
+	<iostream>
+	"polynomials.h"
+
+1597443528 c:\users\checi\desktop\z polimorfia\polynomials.h
+	<iostream>
+
+1597443137 source:c:\users\checi\desktop\z polimorfia\isinteger.cpp
+	<iostream>
+	"polynomials.h"
+
+1597443383 source:c:\users\checi\desktop\z polimorfia\isinteger2.cpp
+	<iostream>
+	"polynomials.h"
+
+1598454135 source:c:\users\checi\desktop\z polimorfia — kopia\main.cpp
+	<iostream>
+	"polynomials.h"
+
+1598454788 c:\users\checi\desktop\z polimorfia — kopia\polynomials.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1598034857 source:c:\users\checi\desktop\z polimorfia — kopia\structors.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\z polimorfia — kopia\gatherpx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\z polimorfia — kopia\gatherwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598179194 source:c:\users\checi\desktop\z polimorfia — kopia\showpx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598179194 source:c:\users\checi\desktop\z polimorfia — kopia\showwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598454868 source:c:\users\checi\desktop\z polimorfia — kopia\isinteger.cpp
+	<iostream>
+	"polynomials.h"
+	<ctype.h>
+	<sstream>
+
+1598467036 source:c:\users\checi\desktop\z polimorfia — kopia\menu.cpp
+	<iostream>
+	"polynomials.h"
+
+1598256801 source:c:\users\checi\desktop\z polimorfia — kopia\addition.cpp
+	<iostream>
+	"polynomials.h"
+
+1598460334 source:c:\users\checi\desktop\z polimorfia — kopia\showresult.cpp
+	<iostream>
+	"polynomials.h"
+
+1598266989 source:c:\users\checi\desktop\z polimorfia — kopia\subtraction.cpp
+	<iostream>
+	"polynomials.h"
+
+1598443227 source:c:\users\checi\desktop\z polimorfia — kopia\isfloat.cpp
+	<iostream>
+	"polynomials.h"
+	<ctype.h>
+	<sstream>
+
+1598126784 source:c:\users\checi\desktop\z polimorfia — kopia\classpx.cpp
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\z polimorfia — kopia\classresult.cpp
+	<iostream>
+	"polynomials.h"
+
+1598443405 source:c:\users\checi\desktop\z polimorfia — kopia\classwx.cpp
+	<iostream>
+	"polynomials.h"
+
+1598256801 source:c:\users\checi\desktop\z polimorfia — kopia\multiplication.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\z polimorfia — kopia\division.cpp
+	<iostream>
+	"polynomials.h"
+
+1598467036 source:c:\users\checi\desktop\z polimorfia — kopia\ispositiveinteger.cpp
+	<iostream>
+	"polynomials.h"
+	<ctype.h>
+	<sstream>
+
